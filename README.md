@@ -18,3 +18,4 @@ Total expected time: ~48 seconds
 
 ## Recent Updates
 - Enhanced CLI to display PR URL when created successfully
+- Fixed PR URL propagation from GitHub Actions to CLI output
