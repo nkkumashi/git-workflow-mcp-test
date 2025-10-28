@@ -15,3 +15,6 @@ This repository demonstrates the Git Workflow MCP Server's ability to:
 - **Security**: Security audits (~17 seconds)
 
 Total expected time: ~48 seconds
+
+## Recent Updates
+- Enhanced CLI to display PR URL when created successfully
