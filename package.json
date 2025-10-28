@@ -8,7 +8,13 @@
     "lint": "echo \"Running linter...\" && exit 0",
     "build": "echo \"Building project...\" && exit 0"
   },
-  "keywords": ["mcp", "git", "workflow", "automation"],
+  "keywords": [
+    "mcp",
+    "git",
+    "workflow",
+    "automation"
+  ],
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
