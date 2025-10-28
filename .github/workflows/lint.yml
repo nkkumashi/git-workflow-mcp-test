@@ -23,6 +23,10 @@ jobs:
       run: |
         echo "Running ESLint..."
         sleep 8
+        if [ -f "FAIL_LINT" ]; then
+          echo "❌ Linting errors found!"
+          exit 1
+        fi
         echo "✅ No linting errors found!"
     
     - name: Check formatting
