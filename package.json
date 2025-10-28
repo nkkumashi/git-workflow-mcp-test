@@ -1,0 +1,14 @@
+{
+  "name": "git-workflow-mcp-test",
+  "version": "1.0.0",
+  "description": "Test repository for Git Workflow MCP Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0",
+    "lint": "echo \"Running linter...\" && exit 0",
+    "build": "echo \"Building project...\" && exit 0"
+  },
+  "keywords": ["mcp", "git", "workflow", "automation"],
+  "author": "Your Name",
+  "license": "MIT"
+}
