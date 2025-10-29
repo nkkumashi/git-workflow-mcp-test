@@ -23,7 +23,8 @@ jobs:
       run: |
         echo "Running ESLint..."
         sleep 8
-        echo "✅ No linting errors found!"
+        echo "❌ Simulating linting errors for testing!"
+        exit 1
     
     - name: Check formatting
       run: |
