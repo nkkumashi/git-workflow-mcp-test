@@ -4,3 +4,4 @@ test change
 # Test GitHub workflow tracking
 # Test enhanced workflow monitoring
 # Test complete workflow monitoring
+# Test SSH workflow
