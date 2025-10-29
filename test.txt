@@ -7,3 +7,4 @@ test change
 # Test SSH workflow
 # Test enhanced workflow monitoring
 # Test enhanced workflow monitoring
+# Test enhanced PR templates
